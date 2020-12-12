@@ -5,3 +5,9 @@ Hides & mutes some of the most spammy UI elements in Witcher 3. These are:
 * New crafting recipes
 * Experience gained notification
 
+### Installation
+
+* Go to your Witcher 3 installation directory
+* Create a directory called `mods` if it doesn't exist
+* Copy the `modHideHudSpam` folder into the mods folder
+* Start the game
